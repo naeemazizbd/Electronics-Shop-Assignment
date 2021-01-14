@@ -1,0 +1,80 @@
+/* This is  CSS3 all external styles code */
+
+/* This is body style code */
+body{font-family: 'Do Hyeon', sans-serif;
+}
+/* This is nav ber section style code */
+.my-navber{
+    background-color:#faf9f8;
+    padding: 20px;
+}
+/* This is slide style code */
+.mySlide{
+    background-color: #dda0eb;
+    border-radius:2em;
+}
+/* This is card style code */
+.catagory-btn{
+    background-color:  #83079e;
+    border:0;
+    color: white;
+}
+.bi-color{
+    color:#83079e;
+}
+.card-size{
+    height: 60%;
+    width: 50%;  
+}
+/* This is form style code */
+.form-bg{
+    background-color:#dda0eb;
+    padding: 10px;
+    border-radius:5px;
+    margin-top:20px;
+    margin-bottom:30px;
+}
+/* This is  footer style code */
+.footer-sec{
+    height: 200px;
+    background-color:#dda0eb;
+}
+
+.footer-bg{
+        background-color:#faf9f8;
+        padding: 20px;
+}
+.footer-bg h3{
+        text-align:center;
+        color:#83079e;
+}
+    .footer-bg img{
+        margin-left: 25%;
+}
+.footer-bg footer{
+        text-align: center;
+        background-color:#dda0eb;
+}
+.footer-bg-left{
+        border-left: 1px solid #dda0eb;
+    }
+.card-footer-bg{
+        border-top: 1px solid #dda0eb;
+}
+/* This is see all button style code */
+    .see-all-btn{
+        height: 30px;
+        text-align: center;   
+}
+/* This is cartoon section style code */
+.cartoon-img {
+        height: 100px;
+        
+}
+/* This is footer section social media style code */
+.social-media {
+        width: 80%;
+}
+    .social-media img{
+        width: 10%;
+    }
