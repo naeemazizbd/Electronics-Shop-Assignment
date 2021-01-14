@@ -22,10 +22,7 @@ body{font-family: 'Do Hyeon', sans-serif;
 .bi-color{
     color:#83079e;
 }
-.card-size{
-    height: 60%;
-    width: 50%;  
-}
+
 /* This is form style code */
 .form-bg{
     background-color:#dda0eb;
