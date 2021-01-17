@@ -1,2 +1,2 @@
 # Electronics-Shop-Assignment
-naeem 
+live link: https://naeemazizbd.github.io/Electronics-Shop-Assignment/
